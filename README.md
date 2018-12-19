@@ -1,2 +1,2 @@
 # practice_1
-first practive from aplana
+first practice from aplana
